@@ -1,5 +1,5 @@
 export const cityFactList = [{
-   prompt: "Learn about Washington State...Hold your click when you click the card to see the backside?",
+   prompt: "Learn about Washington State...",
    answer: "Are you ready??? Click the 'Next' and 'Back' buttons to navigate through the slide deck"
 }, {
    prompt: "What is Washington's state bird?",
