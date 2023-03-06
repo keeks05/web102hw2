@@ -2,9 +2,9 @@
 
 Submitted by: **Enrique Xavier Melgoza**
 
-This web app: **Flashcards about facts of the state of Wahsington**
+This web app: **Flashcards about facts of the state of Washington**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -30,22 +30,19 @@ The following **2** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/keeks05/web102hw2/blob/main/Kapture_2023-03-05_at_22_48_26_AdobeExpress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+www.Adobe.com
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Used state hook to manage components state
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Enrique Xavier Melgoza]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
