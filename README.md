@@ -31,6 +31,7 @@ The following **2** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src='https://github.com/keeks05/web102hw2/blob/main/Kapture_2023-03-05_at_22_48_26_AdobeExpress.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='/webss.png'>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
